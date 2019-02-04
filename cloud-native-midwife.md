@@ -15,9 +15,9 @@ image: /images/midwife.png
 
 Platform engineering, as distinct from “infrastructure and operations”, is still a nascent field. Many people who build platforms for applications and services still think of themselves as “server admins” or “IT operations”. Some of the more progressive use terms like “infrastructure developers” or “infrastructure engineers”. 
 
-What makes a good platform engineer, with respect to traditional IT ops roles? Infrastructure operators need to pick up skills traditionally found in app software engineering – infrastructure as clean, versioned code; testing and refactoring; continuous integration; pair programming. App developers – even “full-stack” – pick up new challenges in lower layers of the compute and especially network stacks. 
+What makes a good platform engineer, with respect to traditional IT ops roles? Infrastructure operators need to pick up skills traditionally found in app software engineering – infrastructure as clean, versioned code; testing and refactoring; continuous integration; pair programming. App developers – even “full-stack” – pick up new challenges in lower layers of the compute and especially network stacks. Giving application product teams the self-service ability to deploy and manage apps on the platform can feel like a huge loss of control and even job security. 
 
-What makes a good platform product manager? First thought is often synonymous with project manager, but the two are almost at right angles, and a strong background in project management can hinder lean, experiment-based product thinking. 
+What makes a good platform product manager? First thought is often synonymous with project manager, but the two are complementary at best, and people with a strong background in project management often find lean, experiment-based product thinking challenges their most basic beliefs about delivering value. 
 
 So, what’s all this have to do with midwifery? 
 
