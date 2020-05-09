@@ -34,6 +34,8 @@ image: /images/balanced-team.png
 
 #TODO Cite Google study showing the two things required for healthy team – equal voice
 
+Two-Pizza team size helps keep lines of communication manageable and balanced. 
+
 # Balancing a Platform Team
 
 ## Stack the deck
